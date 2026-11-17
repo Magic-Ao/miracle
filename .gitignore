@@ -17,3 +17,12 @@
 *.log
 *.suo
 *.user
+
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+
