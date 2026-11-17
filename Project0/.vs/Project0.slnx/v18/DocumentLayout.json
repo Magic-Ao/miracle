@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\10305\\Desktop\\git_storage\\Project0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D289DC66-2892-41EA-9D71-CADC5B2F46CB}|Project0\\Project0.vcxproj|C:\\Users\\10305\\Desktop\\git_storage\\Project0\\Project0\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D289DC66-2892-41EA-9D71-CADC5B2F46CB}|Project0\\Project0.vcxproj|solutionrelative:Project0\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.c",
+              "DocumentMoniker": "C:\\Users\\10305\\Desktop\\git_storage\\Project0\\Project0\\HelloWorld.c",
+              "RelativeDocumentMoniker": "Project0\\HelloWorld.c",
+              "ToolTip": "C:\\Users\\10305\\Desktop\\git_storage\\Project0\\Project0\\HelloWorld.c",
+              "RelativeToolTip": "Project0\\HelloWorld.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-14T00:28:28.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# 忽略所有exe
+*.exe
+*.out
+*.dll
+
+# VS编译产生的debug、release目录
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# VS项目缓存
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.suo
+*.user
